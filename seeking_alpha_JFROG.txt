@@ -1,0 +1,30 @@
+JFrog (FROG) just released its first quarterly earnings report as a publicly traded company. Mid-September, I wondered if this ''liquid software'' play was demonstrating on impressive enough performance on the day it went public. Judging by the trading action since the public offering, investors have held good believe in the prospects for the company, yet I am not too impressed with recent operating performance.
+
+The Business - The Thesis
+JFrog has a vision which it calls Liquid Software, that means software which has continued updates, and in fact does not even have versions anymore. Through its hybrid DevOps platform, the company provides the tools for continued software release management, allowing for both software to be built and released faster, and in a more secure manner.
+
+Besides these benefits, the near 6,000 customers like the solutions for other reasons as well. Originally, software was used on-premise of course, and with software moving into the cloud, and employees accessing the software from multiple devices and locations, it is more challenging updating and ensuring software runs on the same version across the organization.
+
+JFrog saw strong pricing action and went public at $44 per share in September, some $9 above the midpoint of the preliminary pricing range, as the IPO coincided with huge momentum of along others Snowflake. Shares jumped to $65 on their opening day, with operating asset valuations having ballooned to $5.4 billion.
+
+At a first glance, this valuation looks incredibly high for a company which generated $64 million in sales in 2018 on which it reported an operating loss of $27 million. Revenues rose 65% in 2019 to $105 million, with operating losses narrowing in a big way to $7 million, but nonetheless operating assets were valued at 51 times 2019 sales!
+
+Growth slowed down to 50% in the first half of the year, with revenues running at run rate of $140 million a year, reducing sales multiples to 37 times annualized sales. The 46% revenue growth for the second quarter still looks compelling, yet this multiple is high, even as the company has effectively reached break-even levels. The combination of the sales multiple, growth rate, and margin potential makes that I turned cautious, furthermore having the feeling that the solution is more of a nice to have rather than being the absolute crucial piece of software/service which companies need.
+
+An Update On The Third Quarter
+Early November, JFrog reported its third quarter results which were a mixed bag if we quickly glance at the numbers. In the weeks following the second quarter results shares hit a momentum induced high of $95, but at the moment of writing shares trade at $62. This is about three dollars below the level at which shares traded on the first day of trading.
+
+Third quarter sales rose 40% to $38.9 million, with the annualised sales multiple now up to $155 million! GAAP operating losses rose from $3.3 million to $5.4 million on an annual basis, due to stock-based compensation expenses doubling to $9.7 million. The question is how much of this is a one-time effect related to the IPO, and how much is structural.
+
+With 104 million shares now trading at $62, the equity valuation comes in at $6.4 billion and change, which in fact is higher than the valuation at $65 at the offer price, as more dilution has been incurred that I previously thought.
+
+After factoring in the net cash position, I peg operating asset valuations around $5.9 billion, which based on the annualised revenue multiple for the third quarter comes down to 38 times sales, all while growth has slowed down, thereby not creating a great set-up.
+
+Furthermore, the fourth quarter guidance is not too encouraging either, with fourth quarter sales seen at $41.4 million (plus or minus half a million), not looking too enticing. The company reported adjusted operating earnings of $5.1 million in the third quarter, and this number is set to fall to a midpoint of $1.7 million in the fourth quarter, suggesting some real deleverage as well! Furthermore, the potential earnings multiple look high, as the long term operating model suggests operating margins just above the 20% mark.
+
+What Now?
+Using the last sentence as inspiration, we can conclude that valuations look quite steep. If the company could grow revenues 30% per annum for the next five years in a row, which seems like a stretch as this is just barely above the current growth rates, sales hit $575 million in a year or 5.
+
+If the company could even achieve 25% operating GAAP margins on that revenue base, and accounting for a 20% tax rate, earnings come in at $115 million per share. Needless to say, a current $5.9 billion valuation translates into a 51 times earnings multiple 5 years ahead in time. That is a steep multiple, as even such an achievement requires great operational excellence to make this happen.
+
+Safe to say that to err on the safe side, I hold no position at the moment, as my interest will only emerge on significantly lower levels from here.
